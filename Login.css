@@ -1,0 +1,20 @@
+.mt{ 
+  margin-top: 10%; 
+} 
+span{ 
+   margin-top: 5%; 
+   display:flex; 
+} 
+#button{ 
+   margin-top:5%;
+   background-color:blue;
+   color:white;
+   border:none;
+   padding:2%;
+   border-radius: 10%;
+   width:30%;
+ } 
+ .password{
+  margin-top:5%;
+  margin-left:1%;
+}

@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    background-color: hsl(0, 100%, 2%);
+    display: flex;
+    justify-content :space-around;
+    text-align:justify;
+    align-items: center;
+    background-image: url("shooting-stars.gif");
+    margin-left: 2rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+}
+
+h1, h2 {
+    color:#febd68;
+    margin-top: 1.25rem;
+}
+h3{
+    margin-top: 1.25rem;
+    
+}
+ul {
+    list-style-type: none;
+    margin-top: 1.25rem;
+    padding-left: 0;
+}
+p{
+    margin-top: 1.25rem;
+}
+
+li {
+    margin-bottom: 10px;
+     margin-top: 1.25rem;
+
+}
+.box1{
+    font-size: 2rem;
+    text-align: center;
+    padding-top:3rem;
+}
+.box1 a{
+    color: #febd68;
+    text-decoration: none;
+    
+}
